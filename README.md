@@ -3,7 +3,7 @@
 - Esta  
 - es  
 - una  
-- prueba desde GitHub 
+- prueba realizada  
 - para  
 - el  
 - manejo o control 
