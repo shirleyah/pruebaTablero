@@ -3,11 +3,15 @@
 - Esta  
 - es  
 - una  
-- prueba  
+- prueba desde GitHub 
 - para  
 - el  
-- manejo  
+- manejo o control 
 - de  
 - conflicto  
 - de  
-- cambios  
+- cambios  colaborativos
+- Seguimos  
+- con  
+- los  
+- cambios
