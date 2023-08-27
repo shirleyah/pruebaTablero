@@ -6,9 +6,12 @@
 - prueba realizada  
 - para  
 - el  
-- manejo  
+- manejo o control 
 - de  
 - conflicto  
 - de  
-- cambios entre varias personas  
-- Estes es un cambio
+- cambios  colaborativos
+- Seguimos  
+- con  
+- los  
+- cambios
